@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShilpaKala</string>
+    <string name="camera_capture">Capture</string>
+    <string name="branding_title">Brand Your Artwork</string>
+    <string name="gallery_title">My Artworks</string>
+    <string name="artisan_name_hint">Artisan Name</string>
+    <string name="wood_type_hint">Wood Type</string>
+    <string name="price_hint">Price</string>
+</resources>
