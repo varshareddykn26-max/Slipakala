@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShilpaKala - Digital Portfolio Assistant for Artisans
 
 A modern Android application built with **Jetpack Compose** and **CameraX** that helps artisans transform their craftsmanship into premium-looking digital portfolios.
@@ -228,3 +229,6 @@ Ensure device has:
 ---
 
 Built with ❤️ for Indian Artisans | Shilpa-Kala v1.0.0
+=======
+# Slipakala
+>>>>>>> 73e1c7c3e3195900f3abad3e9cf425bf2ff91127
